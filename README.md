@@ -5,7 +5,10 @@
 
 
 # 🔗 下載Visual Studio Code👉 [Visual Studio Code 官方下載頁面](https://code.visualstudio.com/)" >
+```
+https://code.visualstudio.com/ ![Uploading image.png…]()
 
+```
 
 <img width="1043" height="528" alt="image" src="https://github.com/user-attachments/assets/0f0cb556-d8c2-4fea-936d-0a64df5d5931" />
 <img width="1036" height="531" alt="image" src="https://github.com/user-attachments/assets/2e5c33d4-877d-46eb-af6a-24d03d1a90ee" />
@@ -23,5 +26,7 @@
 ## Lab Sample 2: Rock Scissors Papaer Game
 
 **Prompt:**
-```Create a html5 page that can play an online game - rock scissors paper```
+```
+Create a html5 page that can play an online game - rock scissors paper
+```
 
