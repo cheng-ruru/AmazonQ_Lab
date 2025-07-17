@@ -19,7 +19,8 @@
 
 <img width="1041" height="531" alt="image" src="https://github.com/user-attachments/assets/92f87da6-74ef-475d-beba-e1dcd3c8a824" />
 # 提示內容
-# 🧪 Lab Sample 2: Rock Scissors Paper Game
+## Lab Sample 2: Rock Scissors Papaer Game
 
-## 🎯 Prompt
+**Prompt:**
+
 
