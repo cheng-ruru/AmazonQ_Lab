@@ -1,8 +1,10 @@
 # AmazonQ_Lab
-<img width="1047" height="531" alt="image" src="https://github.com/user-attachments/assets/379f41e1-f85a-4f71-8e2b-4ecb6b396bd2" />
-<img width="1044" height="532" alt="image" src="https://github.com/user-attachments/assets/240076f1-15ec-4179-a5da-a4e7d1216126" />
-<img width="1048" height="534" alt="image" src="https://github.com/user-attachments/assets/f5eab6c7-b995-4237-b96d-b2ecc9b44841" />
-<img width="961" height="105" alt="image" src="https://github.com/user-attachments/assets/a1453cdf-9ff8-4c50-96ce-46765fdfb05f" />
+<img width="1043" height="528" alt="image" src="https://github.com/user-attachments/assets/31819a67-feb4-4b05-9968-e3d091f4004f" />
+<img width="1035" height="523" alt="image" src="https://github.com/user-attachments/assets/6f411834-977e-499d-92c6-be92183e9bfe" />
+<img width="1041" height="527" alt="image" src="https://github.com/user-attachments/assets/26772354-3f93-4c21-a23d-961652150b71" />
 
-下載連結：https://code.visualstudio.com/ 
-<img width="1039" height="534" alt="image" src="https://github.com/user-attachments/assets/1fce03aa-6017-4b2b-99bf-5ee933301763" />
+
+echo "# 📘 Amazon Q Developer Lab\n\n## 🔗 開發工具下載連結  \n👉 [Visual Studio Code 官方下載頁面](https://code.visualstudio.com/)" >
+
+<img width="1043" height="528" alt="image" src="https://github.com/user-attachments/assets/0f0cb556-d8c2-4fea-936d-0a64df5d5931" />
+
