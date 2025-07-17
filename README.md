@@ -6,8 +6,7 @@
 
 # 🔗 下載Visual Studio Code👉 [Visual Studio Code 官方下載頁面](https://code.visualstudio.com/)" >
 ```
-https://code.visualstudio.com/ ![Uploading image.png…]()
-
+https://code.visualstudio.com/
 ```
 
 <img width="1043" height="528" alt="image" src="https://github.com/user-attachments/assets/0f0cb556-d8c2-4fea-936d-0a64df5d5931" />
