@@ -4,7 +4,7 @@
 <img width="1041" height="527" alt="image" src="https://github.com/user-attachments/assets/26772354-3f93-4c21-a23d-961652150b71" />
 
 
-# 🔗 下載Visual Studio Code👉 [Visual Studio Code 官方下載頁面](https://code.visualstudio.com/)" 
+# 🔗 下載Visual Studio Code👉 [Visual Studio Code 官方下載頁面](https://code.visualstudio.com/)
 ```
 https://code.visualstudio.com/
 ```
