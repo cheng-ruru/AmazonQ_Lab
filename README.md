@@ -22,5 +22,5 @@
 ## Lab Sample 2: Rock Scissors Papaer Game
 
 **Prompt:**
-
+`三個反引號```
 
