@@ -28,4 +28,5 @@ https://code.visualstudio.com/
 ```
 請提供我井字遊戲在網頁版
 ```
+<img width="1083" height="696" alt="image" src="https://github.com/user-attachments/assets/35f825c8-31c6-4982-adb5-33d211de15d3" />
 
