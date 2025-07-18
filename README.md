@@ -41,6 +41,6 @@ https://code.visualstudio.com/
 ## 圖片怎麼看起來怪怪的?可以試著給他更多提示，請他調整
 **Prompt2:**
 ```
-建立一個 HTML5 網頁，用於線上「石頭、剪刀、布」遊戲，可以與電腦對戰，使用人手圖示作為視覺效果。
+建立一個 HTML5 網頁，用於線上「石頭、剪刀、布」遊戲，可以與電腦對戰，使用人手圖示作為視覺效果
 ```
 <img width="924" height="708" alt="image" src="https://github.com/user-attachments/assets/04f9724c-9e88-41ea-9433-8532d4a883e8" />
