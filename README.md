@@ -74,3 +74,6 @@ https://code.visualstudio.com/
 依照分類，製作出圓餅圖，畫面整齊
 ```
 <img width="877" height="637" alt="image" src="https://github.com/user-attachments/assets/2ba14468-64a4-4d37-8366-b5b5dfd25529" />
+
+## 使用AI價格? 每個月有免費額度
+<img width="1527" height="714" alt="image" src="https://github.com/user-attachments/assets/a5b08d7a-bd42-42ec-85fb-55a18f571497" />
