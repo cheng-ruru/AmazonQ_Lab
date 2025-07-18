@@ -61,7 +61,7 @@ https://code.visualstudio.com/
 ```
 <img width="768" height="717" alt="image" src="https://github.com/user-attachments/assets/1f380cf9-8c06-46f8-991f-e668ed9dfac9" />
 
-## 試著讓你的月光日誌更完整
+## 試著讓你的荷包守門員更完整
 **Prompt2:**
 ```
 需要加註日期
