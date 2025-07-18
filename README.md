@@ -44,3 +44,24 @@ https://code.visualstudio.com/
 建立一個 HTML5 網頁，用於線上「石頭、剪刀、布」遊戲，可以與電腦對戰，使用人手圖示作為視覺效果
 ```
 <img width="924" height="708" alt="image" src="https://github.com/user-attachments/assets/04f9724c-9e88-41ea-9433-8532d4a883e8" />
+
+## Lab Sample 3: 個人小秘書To Do List
+
+**Prompt1:**
+```
+請幫我設計一個HTML5的TO DO LIST
+```
+<img width="909" height="596" alt="image" src="https://github.com/user-attachments/assets/e7a441dc-5c12-44b5-b9de-eee5ed2d5fe2" />
+
+## Lab Sample 4: 創造一個荷包守門員
+
+**Prompt1:**
+```
+請做個網頁版本的記帳本
+```
+<img width="768" height="717" alt="image" src="https://github.com/user-attachments/assets/1f380cf9-8c06-46f8-991f-e668ed9dfac9" />
+**Prompt1:**試著讓你的月光日誌更完整
+```
+需要加註日期
+```
+<img width="705" height="657" alt="image" src="https://github.com/user-attachments/assets/7852d08b-bef9-4dd6-9fe7-b038d23c6a79" />
