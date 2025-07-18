@@ -60,8 +60,17 @@ https://code.visualstudio.com/
 請做個網頁版本的記帳本
 ```
 <img width="768" height="717" alt="image" src="https://github.com/user-attachments/assets/1f380cf9-8c06-46f8-991f-e668ed9dfac9" />
-**Prompt1:**試著讓你的月光日誌更完整
+
+## 試著讓你的月光日誌更完整
+**Prompt2:**
 ```
 需要加註日期
 ```
 <img width="705" height="657" alt="image" src="https://github.com/user-attachments/assets/7852d08b-bef9-4dd6-9fe7-b038d23c6a79" />
+
+## 加上圓餅花費更清楚
+**Prompt2:**
+```
+依照分類，製作出圓餅圖，畫面整齊
+```
+<img width="877" height="637" alt="image" src="https://github.com/user-attachments/assets/2ba14468-64a4-4d37-8366-b5b5dfd25529" />
