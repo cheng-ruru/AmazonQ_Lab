@@ -30,3 +30,17 @@ https://code.visualstudio.com/
 ```
 <img width="1083" height="696" alt="image" src="https://github.com/user-attachments/assets/35f825c8-31c6-4982-adb5-33d211de15d3" />
 
+## Lab Sample 2: 剪刀石頭布
+
+**Prompt1:**
+```
+請提供我請幫我在網頁版做一個剪刀石頭布的圖像化遊戲，使用者輸入「剪刀」、「石頭」或「布」，電腦隨機出拳，顯示誰贏誰輸。
+```
+<img width="1003" height="690" alt="image" src="https://github.com/user-attachments/assets/2b63cfc3-9125-44c5-b7d3-db82c395c39f" />
+
+## 圖片怎麼看起來怪怪的?可以試著給他更多提示，請他調整
+**Prompt2:**
+```
+建立一個 HTML5 網頁，用於線上「石頭、剪刀、布」遊戲，可以與電腦對戰，使用人手圖示作為視覺效果。
+```
+<img width="924" height="708" alt="image" src="https://github.com/user-attachments/assets/04f9724c-9e88-41ea-9433-8532d4a883e8" />
