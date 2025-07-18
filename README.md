@@ -69,7 +69,7 @@ https://code.visualstudio.com/
 <img width="705" height="657" alt="image" src="https://github.com/user-attachments/assets/7852d08b-bef9-4dd6-9fe7-b038d23c6a79" />
 
 ## 加上圓餅花費更清楚
-**Prompt2:**
+**Prompt3:**
 ```
 依照分類，製作出圓餅圖，畫面整齊
 ```
